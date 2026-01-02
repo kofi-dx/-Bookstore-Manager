@@ -1,7 +1,7 @@
 # Bookstore Management System
 
 ## Assignment Submission Details
-**Name:** Desmond Kumassah  
+**Name:** Emeka Kumassah  
 **Course:** ASP.NET Core Web Development  
 **Assignment:** Build a Simple Bookstore Web Application  
 **Submission Date:** February 1, 2025  
@@ -227,6 +227,6 @@ The most satisfying part was seeing everything come together - the database stor
 This project was created for educational purposes as part of my coursework. Feel free to use it as a reference or starting point for your own learning!
 
 ---
-**Submitted by:** Desmond Kumassah  
+**Submitted by:** Emeka Kumassah 
 **For:** ASP.NET Core Web Development Assignment  
 **Date:** February 2025
